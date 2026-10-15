@@ -51,6 +51,9 @@
     "vitest": "5.0.4"
   },
   "overrides": {
-    "typescript": "$typescript"
+    "typescript": "$typescript",
+    "@esbuild-kit/core-utils": {
+      "esbuild": "0.25.12"
+    }
   }
 }

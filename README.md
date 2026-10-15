@@ -1,6 +1,6 @@
 # Next.js SaaS Starter
 
-> **Free CodePlate template, v1.2.4.** This repository mirrors the zip on [codeplate.io](https://codeplate.io/t/web-saas-starter/).
+> **Free CodePlate template, v1.2.5.** This repository mirrors the zip on [codeplate.io](https://codeplate.io/t/web-saas-starter/).
 > Press **Use this template** to start your own repository from it, or [download the zip](https://codeplate.io/t/web-saas-starter/).
 > [All templates](https://codeplate.io/) · [Free License](https://codeplate.io/license/free/) · subscribers get it under the [Pro License](https://codeplate.io/license/pro/) with no credit.
 
