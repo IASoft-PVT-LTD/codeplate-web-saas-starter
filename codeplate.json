@@ -3,7 +3,7 @@
   "spec": 0,
   "id": "web-saas-starter",
   "name": "Next.js SaaS Starter",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "kind": "app",
   "summary": "A working SaaS web app: Next.js 16, Postgres, sign-in, Paddle subscriptions, plan limits and an admin page.",
   "tags": [
